@@ -9779,6 +9779,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Dein Darts-Sender mit den besten Spielern der Welt und ausgewählten, exklusiven Live-Übertragungen und Highlight-Shows.</desc>
         <icon src="https://images.pluto.tv/series/6a82f146323bf2ec8c475bfe/tile_1786966343125.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64b67f0424ade50008a3be17" start="20261022213300 +0000" stop="20261023011400 +0000">
+        <title>PDC European Tour</title>
+        <desc>Dein Darts-Sender mit den besten Spielern der Welt und ausgewählten, exklusiven Live-Übertragungen und Highlight-Shows.</desc>
+        <icon src="https://images.pluto.tv/series/6a82f146323bf2ec8c475bfe/tile_1786966343125.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64be635a40962900080aaca5" start="20261022132100 +0000" stop="20261022134600 +0000">
         <title>Rules of Engagement: Spiel mit Köpfchen</title>
         <desc>Als Jeff den Mietvertrag für eine Ladenfläche, die er für Audreys flüchtiges Keksgeschäft gemietet hat, nicht kündigen kann, erfinden er und Adam ein neues Spiel mit den Köpfen von Schaufensterpuppen. Unterdessen haben Russell und Timmy ein Doppeldate.</desc>
@@ -22129,6 +22134,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>Bone Tomahawk</title>
         <desc>Eine Gruppe äußerst unterschiedlicher Menschen schließt sich zusammen, um Geiseln von Kannibalen zu befreien.</desc>
         <icon src="https://images.pluto.tv/series/67973d03402df70013d3a968/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebbe32f7c5d70b903676ea" start="20261023020155 +0000" stop="20261023034955 +0000">
+        <title>Warlock - Satans Sohn kehrt zurück</title>
+        <desc>Der böse Warlock ist zurückgekehrt und sucht sechs magische Runensteine, um Satan zu beschwören. Doch eine Gruppe mächtiger Druiden weiß von dem finsteren Plan, und nun liegt es an ihnen, den Warlock zu besiegen und das Armageddon abzuwehren.</desc>
+        <icon src="https://images.pluto.tv/series/64ef4b642daa2c0013255856/tile_1778622481256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67ff7d487fc25e0e72450adf" start="20261022200735 +0000" stop="20261022213735 +0000">
         <title>GHOUL</title>

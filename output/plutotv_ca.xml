@@ -9606,6 +9606,11 @@
         <desc>A group of Catholic school friends, after being caught drawing an obscene comic book, plan a heist that will outdo their previous prank and make them local legends.</desc>
         <icon src="https://images.pluto.tv/series/64062758d3b02d0013955c3b/tile_1778114926332.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20261022180400 +0000" stop="20261022195900 +0000">
+        <title>Moon</title>
+        <desc>Nearing the end of his contract, a lonely astronaut miner (Academy Award winner Sam Rockwell) makes an ominous discovery in this psychological sci-fi film. Also featuring Kevin Spacey.</desc>
+        <icon src="https://images.pluto.tv/series/67729da02e43550013dc5fed/tile_1778801406443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62bdb7f0db2eb30007376d4d" start="20261022131100 +0000" stop="20261022133900 +0000">
         <title>Cheers</title>
         <desc>Carla acts like a holy terror when her son decides to join the priesthood.</desc>
@@ -10000,6 +10005,11 @@
         <title>Five Feet Apart</title>
         <desc>Two cystic fibrosis patients fall in love, even though hospital rules state they stay five feet apart at all times.</desc>
         <icon src="https://images.pluto.tv/series/676ee496e0aa65001381cc0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a3d96f060e830008af6745" start="20261022180500 +0000" stop="20261022201700 +0000">
+        <title>Chicago</title>
+        <desc>A lawyer (Richard Gere) handles the cases of two murderous women (Catherine Zeta-Jones, Renée Zellweger) who are looking to gain celebrity from their public exposure.</desc>
+        <icon src="https://images.pluto.tv/series/68b1ddb72eb4d0c1a4f8ef7f/tile_1782490079206.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65cf8ace332fec00081e7ea2" start="20261022131900 +0000" stop="20261022141000 +0000">
         <title>Ghost Hunters</title>
@@ -17845,6 +17855,11 @@
         <title>OHL Hockey: Ottawa 67's vs Brampton Steelheads</title>
         <desc>Watch the Ottawa 67's and Brampton Steelheads face off in live OHL action.</desc>
         <icon src="https://images.pluto.tv/series/6ac0819fc3565bfc3237817e/tile_1791001117733.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a67825875fd5e3828e83703" start="20261022175200 +0000" stop="20261022201416 +0000">
+        <title>AHA Hockey: Michigan State vs RIT</title>
+        <desc>Watch the Michigan State and RIT face off in live AHA action.</desc>
+        <icon src="https://images.pluto.tv/series/6ac1d2d990639e3b19b2cd66/tile_1791088093774.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a8d96996d62a56d3bdd959c" start="20261022133000 +0000" stop="20261022140000 +0000">
         <title>Hank Parker Fishing</title>
@@ -26125,6 +26140,11 @@
         <title>AHL Hockey: San Diego Gulls vs Tucson Roadrunners</title>
         <desc>Watch the San Diego Gulls and Tucson Roadrunners face off in live AHL action.</desc>
         <icon src="https://images.pluto.tv/series/6ac1d2d5ff94431f8b6d7b70/tile_1791087317801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a67825875fd5e3828e83703" start="20261022221500 +0000" stop="20261023001627 +0000">
+        <title>AHA Hockey: Royal Military College of Canada vs Army</title>
+        <desc>Watch the Royal Military College and Army face off in live AHA action.</desc>
+        <icon src="https://images.pluto.tv/series/6abc8ce950694e8e54ded3c2/tile_1790741914084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a8d96996d62a56d3bdd959c" start="20261022173000 +0000" stop="20261022180000 +0000">
         <title>Jimmy Houston Fishing</title>

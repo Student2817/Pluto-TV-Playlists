@@ -8840,6 +8840,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Watch the Full Match Replay from Japan vs Samoa at the 2023 Rugby World Cup.</desc>
         <icon src="https://images.pluto.tv/series/6888f1638eef10068f2d7f2c/tile_1753805157172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66f137cb483d460008ece053" start="20261022194100 +0000" stop="20261022223500 +0000">
+        <title>Rugby World Cup 2023</title>
+        <desc>The latest action from the Rugby World Cup.</desc>
+        <icon src="https://images.pluto.tv/series/6888f1638eef10068f2d7f2c/tile_1753805157172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66fd37885049580008d295b6" start="20261022133000 +0000" stop="20261022154500 +0000">
         <title>Professional Softball League</title>
         <desc>Coverage of the professional fastpitch league featuring teams from throughout the United States.</desc>
@@ -14834,6 +14839,16 @@ built quite an impressive career.</desc>
         <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
         <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20261022200000 +0000" stop="20261022200300 +0000">
+        <title>DAZN Ringside</title>
+        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
+        <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20261022200300 +0000" stop="20261022204600 +0000">
+        <title>Boxing</title>
+        <desc>Agit Kabayel looked to maintain his unbeaten record against Zhilei Zhang in their heavyweight contest in Riyad.</desc>
+        <icon src="https://images.pluto.tv/series/65d326e56ef49d0013941387/tile_1791054985750.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20261022200300 +0000" stop="20261022204600 +0000">
         <title>Boxing</title>
         <desc>Agit Kabayel looked to maintain his unbeaten record against Zhilei Zhang in their heavyweight contest in Riyad.</desc>
@@ -14842,6 +14857,16 @@ built quite an impressive career.</desc>
     <programme channel="65b14aae0cb1a100087a216e" start="20261022204600 +0000" stop="20261022211300 +0000">
         <title>Boxing</title>
         <desc>All the boxing action.</desc>
+        <icon src="https://images.pluto.tv/series/65d326ea6ef49d00139419d4/tile_1789510580938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20261022204600 +0000" stop="20261022211300 +0000">
+        <title>Boxing</title>
+        <desc>All the boxing action.</desc>
+        <icon src="https://images.pluto.tv/series/65d326ea6ef49d00139419d4/tile_1789510580938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20261022211300 +0000" stop="20261022222100 +0000">
+        <title>Boxing</title>
+        <desc>From Utilita Arena Sheffield in England.</desc>
         <icon src="https://images.pluto.tv/series/65d326ea6ef49d00139419d4/tile_1789510580938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20261022211300 +0000" stop="20261022222100 +0000">

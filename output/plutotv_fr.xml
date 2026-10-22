@@ -7704,6 +7704,11 @@ Pourquoi est-ce seulement la sous-espèce des paresseux à trois doigts qui est 
         <desc>Le seul espoir d'avenir pour Picard se trouve dans le Nexus… et un légendaire capitaine du passé.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd3e17f63001ae1a640/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261022180158 +0000" stop="20261022201658 +0000">
+        <title>Star Trek VII: Générations</title>
+        <desc>L’équipage du vaisseau de la Fédération, l’Enterprise, est appelé sur Nimbus III, la Planète de la Paix Galactique. Menant les négociations dans un cas de prise d’otage, ils découvrent que le ravisseur n’est autre qu’un parent de Spock.</desc>
+        <icon src="https://images.pluto.tv/series/601cfbd1e17f63001ae1a614/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261022125701 +0000" stop="20261022144417 +0000">
         <title>D'artagnan Et Les Trois Mousquetaires</title>
         <desc>Jeune Gascon fougueux, d'Artagnan monte à Paris pour devenir mousquetaire du Roi. En chemin, il croise le fer avec les plans de Richelieu et de la mystérieuse Milady. À Paris, il se lie d'amitié avec Athos, Porthos et Aramis pour l'aventure.</desc>
@@ -9791,6 +9796,11 @@ Pourquoi est-ce seulement la sous-espèce des paresseux à trois doigts qui est 
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20261022160500 +0000" stop="20261022180400 +0000">
         <title>Y'a que la vérité qui compte: Episode 91</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20261022180400 +0000" stop="20261022193700 +0000">
+        <title>Y'a que la vérité qui compte: Episode 18</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
